@@ -8,7 +8,24 @@
 	A moving mechanical device that can perform some tasks without human intervention.
  - radio control  
 	Allow device control from a distance by electromagnetic signals.
-
+ - robot  
+	Comes from a Czech word, robota, meaning "forced labor"  
+	These machines are made to be slaves of humans.
+ - android(male) or gynoid(female) are humanoid(droid)  
+	Means:*inspired by the human form* (2arms,2legs, head roughly at the top and bipedal locomotion)
+ - cyborg  
+	Combination of synthetic and biological components.
+ - bionics or bio  
+	Inspired engineering, is the application of biological methods and systems found in nature to the study and design of engineering systems.
+ - animatronics  
+	Refers to the use of cable-pulled devices or motors to emulate a human or an animal, or bring lifelike characteristics to an otherwise inanimate object.
+ - automata/automaton  
+	Machines designed to automatically follow a predetermined sequence of operations.  
+	Its often used to describe non-electronic moving machines, especially those that have been made to resemble human or animal actions, such as animated figures on a cuckoo clock. 
+ - mechs mecha(メカ meka)  
+	Refer to piloted from cockpit humanoid or non-humanoid robotic platforms,
+	
+	
 ## ℹ️ Description
  - Moving by pneumatic cylinders.
  - Based on a chicken for the bipedal walking .
