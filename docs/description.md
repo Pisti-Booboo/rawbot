@@ -1,37 +1,32 @@
 ![Logo icon](contents/logo/logo.png "ARC logo")
-# ARC
+# R.C.A.
 
-
-## 🚩 Intro
-**Automate Radio Commander**
-
+**Radio Controlled Automaton**
 
 ## 📋 Glossary
- - Automate  
-	apareil equipe de dispositifs qui permettent l'execution de certaines taches sans l'intervention humaine.
- - Radio Commander  
-	5ystem permettant le guidage a distance d'un apareil..
-
+ - automaton  
+	A moving mechanical device that can perform some tasks without human intervention.
+ - radio control  
+	Allow device control from a distance by electromagnetic signals.
 
 ## ℹ️ Description
-Ambitious robotic biped automation creation.  
- - Mouvant par verin pneumatique, 
- - Prenant base sur un poulet pour sa bipedi .
- - et avec des pinces de crabe en guiz de mains..
-
-
+ - Moving by pneumatic cylinders.
+ - Based on a chicken for the bipedal walking .
+ - With crab claws for hands.
 
 ## 📜 History
- - Origin:
-	Projet initiate by [N-z0](https://github.com/N-z0) a long time ago. (around 1995)  
-	Ce projet est je crois le plus ancien de mes projets, je l'avais debuter a l'age de l'adolessence,  
-	Je me souvient en avoir fait les plans et une maquette en carton chez mon pere ,  
-	D'avoir realiser une patte avec des pieces en metal acheter au BHV et webber metal,  
-	Et aussi j'avai realiser un premier model de patte tres complet sur autocad, mais que j'ai maleureusement perdu.
+ - Origin:  
+	Project created by [N-z0](https://github.com/N-z0) a long time ago. (In the 90s)
 	
-	*J'devais avoir 15ans, alors oui ca fait un peu rire qan on vois ces plan, car c un peu bidon.* 
-	*mais comparer aux gamins cretin d'aujourdhui , y a du "Gni" ;-)*
+	I started this project around my 15 years old ,maybe one of my oldest.  
+	So.. yeah,,,  it makes laugh to see that, because it's over ambitious .  
+	But  compared to the today's kids,  i dont feel any shame... 😁
 	
- - Development:
-	- J'ai recement(2019) eu envie de retoucher a ce projet,
-	me permetant egalemant d'ameliorer ma gestion de conception d'object.
+	I remember making plans and model with cardboards at my father's place.  
+	And made a paw with metal parts bought in DIY stores,  
+	Also realized a first very complete paw model on Autocad software, but lost unfortunately.
+	
+ - Development:  
+	I recently (2019) wanted to edit this project,
+	for also improve my objects design management.
+
