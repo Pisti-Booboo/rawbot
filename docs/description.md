@@ -2,7 +2,9 @@
 # A2C
 **Automaton Chicken Crab**
 
+
 ## 📋 Glossary
+
  - automaton  
 	A moving mechanical device that can perform some tasks without human intervention.
  - radio control  
@@ -26,11 +28,15 @@
  - mechs mecha(メカ meka)  
 	Refer to piloted from cockpit humanoid or non-humanoid robotic platforms,
 
+
 ## ℹ️ Description
+
 Ambitious bipedal robot project  
 *Bionical inspired (legs from chicken,arms from crabs) .*
 
+
 ## 📜 History
+
  - Origin:  
 	Project created by [N-z0](https://github.com/N-z0) a long time ago. (In the 90s)
 	
@@ -46,3 +52,12 @@ Ambitious bipedal robot project
 	I recently (2019) wanted to edit this project,
 	for also improve my objects design management.
 
+
+## 👀 See also
+
+ - [ANYmal](https://rsl.ethz.ch/robots-media/anymal.html)  
+	Quadrupedal robot designed for autonomous operation in challenging environments.
+ - [Cassie](https://robots.ieee.org/robots/cassie)  
+	Dynamic bipedal robot that can walk and run in a fashion similar to that of humans or animals.
+ - [Boston Dynamics](https://www.bostondynamics.com/)  
+	Advanced robots with remarkable behavior: mobility, agility, dexterity and speed.
