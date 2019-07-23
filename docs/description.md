@@ -1,18 +1,19 @@
 ![Logo icon](contents/logo/logo.png "ARC logo")
-# R.C.A.
-
-**Radio Controlled Automaton**
+# A2C
+**Automaton Chicken Crab**
 
 ## 📋 Glossary
  - automaton  
 	A moving mechanical device that can perform some tasks without human intervention.
  - radio control  
 	Allow device control from a distance by electromagnetic signals.
+
+
  - robot  
 	Comes from a Czech word, robota, meaning "forced labor"  
 	These machines are made to be slaves of humans.
  - android(male) or gynoid(female) are humanoid(droid)  
-	Means:*inspired by the human form* (2arms,2legs, head roughly at the top and bipedal locomotion)
+	Means: *inspired by the human form* (2arms,2legs, head roughly at the top and bipedal locomotion)
  - cyborg  
 	Combination of synthetic and biological components.
  - bionics or bio  
@@ -24,12 +25,10 @@
 	Its often used to describe non-electronic moving machines, especially those that have been made to resemble human or animal actions, such as animated figures on a cuckoo clock. 
  - mechs mecha(メカ meka)  
 	Refer to piloted from cockpit humanoid or non-humanoid robotic platforms,
-	
-	
+
 ## ℹ️ Description
- - Moving by pneumatic cylinders.
- - Based on a chicken for the bipedal walking .
- - With crab claws for hands.
+Ambitious bipedal robot project  
+*Bionical inspired (legs from chicken,arms from crabs) .*
 
 ## 📜 History
  - Origin:  
